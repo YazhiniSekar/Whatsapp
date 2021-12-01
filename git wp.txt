@@ -3,3 +3,5 @@ Whatsapp creation(github)
 2.status
 3.settings
 4.last seen
+5.add audio
+6.add video
